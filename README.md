@@ -11,6 +11,7 @@ This project will leverage Python to analyse stock data from the stock market, p
 •	Alphabet (GOOG)
 
 •	Facebook (FB).
+
 Use pandas to get stock information, visualize different aspects of it, and finally look at a few ways of analysing the risk of a stock, based on its previous performance history.
 In your analysis you will perform the following:
 1.	Visualize the stock prices using matplotlib
