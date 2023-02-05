@@ -3,9 +3,13 @@ Stock markets are constantly changing. It is difficult to predict the stock mark
 This project will leverage Python to analyse stock data from the stock market, particularly some technology stocks. You can visualize the top 5 highest valued technology stocks, as of the end of the 2022:
 
 •	Microsoft (MSFT)
+
 •	Amazon (AMZN)
+
 •	Apple (AAPL)
+
 •	Alphabet (GOOG)
+
 •	Facebook (FB).
 Use pandas to get stock information, visualize different aspects of it, and finally look at a few ways of analysing the risk of a stock, based on its previous performance history.
 In your analysis you will perform the following:
