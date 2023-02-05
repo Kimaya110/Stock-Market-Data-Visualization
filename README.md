@@ -1,6 +1,7 @@
 # Stock-Market-Data-Visualization
 Stock markets are constantly changing. It is difficult to predict the stock market’s fluctuations because of the many factors at play. Similarly, it is difficult to create models to consider such variability. However, due to recent advances in machine learning and computing, machines can now process large amounts of data. This enables us to use stock exchange data from the past to analyse trends and predict future changes.
 This project will leverage Python to analyse stock data from the stock market, particularly some technology stocks. You can visualize the top 5 highest valued technology stocks, as of the end of the 2022:
+
 •	Microsoft (MSFT)
 •	Amazon (AMZN)
 •	Apple (AAPL)
